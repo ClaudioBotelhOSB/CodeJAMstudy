@@ -1,1 +1,1 @@
-# CodeJAMstudy
+# Code Challenges - Competitive Programming
